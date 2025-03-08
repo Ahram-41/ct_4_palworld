@@ -1,0 +1,53 @@
+"606150"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"bindings"
+	{
+		"root"		"0"
+		"size"		"1868"
+		"localtime"		"1635048852"
+		"time"		"1635048848"
+		"remotetime"		"1635048849"
+		"sha"		"c3303156988db8cf24e725502c36f16f0b027670"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"gameslot"
+	{
+		"root"		"0"
+		"size"		"471678"
+		"localtime"		"1635055001"
+		"time"		"1635054997"
+		"remotetime"		"1635054998"
+		"sha"		"75547ebf2f39a53c2d0d268728edb8bdbb3ef94d"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"guiBindings"
+	{
+		"root"		"0"
+		"size"		"2188"
+		"localtime"		"1635048852"
+		"time"		"1635048848"
+		"remotetime"		"1635048849"
+		"sha"		"e57b2b10e7f885837260e0e6321318d7dc3be1a4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"options.ini"
+	{
+		"root"		"0"
+		"size"		"276"
+		"localtime"		"1618577615"
+		"time"		"1618577611"
+		"remotetime"		"1618577612"
+		"sha"		"117d2d03f3dd9d285bea2eda1b1d15577ab52b90"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
